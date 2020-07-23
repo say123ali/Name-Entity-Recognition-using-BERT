@@ -27,7 +27,7 @@ In Conda also it’s easy
 pip install -r requirements.txt
 
 # WORKFLOW
-!
+![imgworkflow.jpg]
 
 
 
